@@ -5,7 +5,7 @@ To compile from source:
 `javac -d bin src/Lolcat.java`  
 
 To run, cd into bin/ and run:
-``java Lolcat`   
+`java Lolcat`   
 
 ![screenshot](./lolcat.png)
 
